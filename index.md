@@ -3,7 +3,7 @@
 Hi! I'm documenting my journey to becoming a freelance developer from scratch.  
 I update this site every day with what I’ve learned, built, or struggled with.
 
-> 🛤️ My journey into tech didn’t start in a textbook. It began with a setback.  
+> My journey into tech didn’t start in a textbook. It began with a setback.  
 > Rejected by placements, rebuilding from scratch, I chose to forge my own path — fast.  
 > Read the [origin story](daily-logs/Prior_to_23_May_2025.md) and what drives me to learn, build, and earn every single day.
 
