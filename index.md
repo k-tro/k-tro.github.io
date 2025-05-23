@@ -3,6 +3,10 @@
 Hi! I'm documenting my journey to becoming a freelance developer from scratch.  
 I update this site every day with what I’ve learned, built, or struggled with.
 
+> 🛤️ My journey into tech didn’t start in a textbook. It began with a setback.  
+> Rejected by placements, rebuilding from scratch, I chose to forge my own path — fast.  
+> Read the [origin story](daily-logs/Prior_to_23_May_2025.md) and what drives me to learn, build, and earn every single day.
+
 ### 🔗 Daily Logs
 You can follow my daily progress here:
 
@@ -12,5 +16,5 @@ You can follow my daily progress here:
 
 ---
 
-🛠️ Built with [GitHub Pages](https://pages.github.com/).  
-📘 Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Built with [GitHub Pages](https://pages.github.com/).  
+Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
