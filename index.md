@@ -12,7 +12,7 @@ You can follow my daily progress here:
 
 - [May 23, 2025 (to be uploaded)](daily-logs/2025-05-23.md)
 - [May 24, 2025 (to be uploaded)](daily-logs/2025-05-24.md)
-- [Full log archive →](daily-logs/)
+- [Full log archive →](daily-logs)
 
 ---
 
