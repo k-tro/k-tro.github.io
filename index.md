@@ -8,12 +8,12 @@ The plan is quite ambitious:
 - [Ray tracing with gravity distortion and postprocessing](https://github.com/k-tro/raytracer)
 - [Benchmarking VAEs and their variants across multiple datasets after learning how they work](https://github.com/k-tro/VAE_and_beyond)
 #### trying not to be late for this:
-![Rough plan](https://github.com/k-tro/k-tro/blob/main/home_resources/long_term_plan.png)
+![Rough plan](./long_term_plan.png)
 #### while also doing four Coursera specializations:
 - [IBM Data Science Fundamentals](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)
 - [Meta Full-Stack Developer](https://www.coursera.org/specializations/meta-full-stack-developer)
-- [Applied Data Science with Python | Michigan](https://www.coursera.org/specializations/data-science-python)
-- [MLOps | Duke](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+- [Applied Data Science with Python - Michigan](https://www.coursera.org/specializations/data-science-python)
+- [MLOps - Duke](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 
 ### 🔗 Weekly Logs:
 You can follow my weekly progress here:
