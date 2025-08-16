@@ -1,18 +1,24 @@
-# My Learning Journal
+# My Learning/Growth Journal
 
-Hi! I'm documenting my journey to becoming a freelance developer from scratch.  
-I update this site every day with what I’ve learned, built, or struggled with.
+Hi! I'm documenting my learning journey here.
 
-> My journey into tech didn’t start in a textbook. It began with a setback.  
-> Rejected by placements, rebuilding from scratch, I chose to forge my own path — fast.  
-> Read the [origin story](daily-logs/Prior_to_23_May_2025.md) and what drives me to learn, build, and earn every single day.
+The plan is quite ambitious: 
 
-### 🔗 Daily Logs
-You can follow my daily progress here:
+#### Doing two ambitious projects:
+- [Ray tracing with gravity distortion and postprocessing](https://github.com/k-tro/raytracer)
+- [Benchmarking VAEs and their variants across multiple datasets after learning how they work](https://github.com/k-tro/VAE_and_beyond)
+#### trying not to be late for this:
+![Rough plan](https://github.com/k-tro/k-tro/blob/main/home_resources/long_term_plan.png)
+#### while also doing four Coursera specializations:
+- [IBM Data Science Fundamentals](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)
+- [Meta Full-Stack Developer](https://www.coursera.org/specializations/meta-full-stack-developer)
+- [Applied Data Science with Python | Michigan](https://www.coursera.org/specializations/data-science-python)
+- [MLOps | Duke](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 
-- [May 23, 2025 (to be uploaded)](daily-logs/2025-05-23.md)
-- [May 24, 2025 (to be uploaded)](daily-logs/2025-05-24.md)
-- [Full log archive →](daily-logs)
+### 🔗 Weekly Logs:
+You can follow my weekly progress here:
+
+
 
 ---
 
