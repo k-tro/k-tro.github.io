@@ -7,6 +7,11 @@ The plan is quite ambitious:
 #### Doing two ambitious projects:
 - [Ray tracing with gravity distortion and postprocessing](https://github.com/k-tro/raytracer)
 - [Benchmarking VAEs and their variants across multiple datasets after learning how they work](https://github.com/k-tro/VAE_and_beyond)
+
+#### Doing the archived [CS336 Stanford course](https://stanford-cs336.github.io/spring2025/)
+
+#### Applying for jobs and internships
+
 #### trying not to be late for this:
 ![Rough plan](./long_term_plan.png)
 #### while also doing four Coursera specializations:
@@ -18,7 +23,7 @@ The plan is quite ambitious:
 ### 🔗 Weekly Logs:
 You can follow my weekly progress here:
 
-
+[Weekly Logs](/weekly-logs/index.md)
 
 ---
 
